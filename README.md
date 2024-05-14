@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karan Yadav</h1>
 <h3 align="center">Passionate B.Tech student with a strong interest in coding, particularly in Python, Java, and C/C++. Currently exploring Node.js and JavaScript. Enthusiastic about Machine Learning. Loves football and drawing.</h3>
 
-- 🔭 I’m currently working on [Upease](https://www.upease.biz/)
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/karanyadav132/](https://www.linkedin.com/in/karanyadav132/)
 
 <h3 align="left">Connect with me:</h3>
